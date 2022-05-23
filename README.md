@@ -20,11 +20,5 @@ npm install
 ```
 ## We run with 
 ```bash
-node app.js
-```
-o
-
-```bash
-npm install nodemon -g
-nodemon app.js
+npm run dev
 ```
